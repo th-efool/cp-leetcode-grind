@@ -1,0 +1,12 @@
+{
+  "accentColor": "#8c00ff",
+  "cssTheme": "Moonlight",
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [],
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Inter"
+}
